@@ -1,0 +1,5 @@
+1. Welcome to the Text File Sample.
+2. This is a demonstration of a simple text file.
+3. You can use text files to store and retrieve data.
+4. Feel free to edit, save, and manipulate this file.
+5. Enjoy exploring the world of text files!
