@@ -3,3 +3,5 @@
 3. You can use text files to store and retrieve data.
 4. Feel free to edit, save, and manipulate this file.
 5. Enjoy exploring the world of text files!
+
+All the wealth in the world cannot buy knowledge... hear! hear!
